@@ -20,7 +20,7 @@
 
 ### Latihan 2
 
-#### - Tampilkan n bilangan acak yang lebih kecil dari o.5.
+#### - Tampilkan n bilangan acak yang lebih kecil dari 0.5.
 #### - Nilai n diisi pada saat runtime.
 #### - Anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya.
 
